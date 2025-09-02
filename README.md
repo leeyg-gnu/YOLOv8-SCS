@@ -4,6 +4,7 @@
 > Y. Lee and J. Kang, *IEEE Access*, vol. 13, pp. 149933-149946, 2025  
 > [📄 Paper](https://doi.org/10.1109/ACCESS.2025.3602211)
 
+## Overview
 **YOLOv8-SCS** is a model that integrates Swin Transformer, CBAM, and SCDown modules into YOLOv8 to enhance object detection performance under adverse weather conditions.
 
 The main architectural modifications can be found in the `conv.py` and `task.py` files.
