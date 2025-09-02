@@ -4,6 +4,11 @@
 
 The main architectural modifications can be found in the `conv.py` and `task.py` files.
 
+# YOLOv8-SCS
+
+> **YOLOv8-SCS: Improved Object Detection for Autonomous Driving Under Adverse Weather Conditions**  
+> Y. Lee and J. Kang, *IEEE Access*, vol. 13, pp. 149933-149946, 2025  
+> [📄 Paper](https://doi.org/10.1109/ACCESS.2025.3602211)
 
 ## abstract
 
